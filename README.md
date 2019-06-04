@@ -1,2 +1,2 @@
 # RestSharp
-Restful API kson2csharp
+Restful API json2csharp
